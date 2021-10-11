@@ -1,4 +1,4 @@
-# Tracalorie
+# *Tracalorie*
 Calories Tracker Made In Pure JavaScript
 
 [Link To That App](https://tracalories-app.netlify.app/)
@@ -10,7 +10,7 @@ Calories Tracker Made In Pure JavaScript
 * Clearning Meal
 * Updating Meal
 
-## ** TECHNOLOGY USED **
+## **TECHNOLOGY USED**
 * Pure JavaScript
 * HTML / CSS
 * Bootstrap
